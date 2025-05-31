@@ -7,11 +7,15 @@ b64 is a command-line application to base64 encode and decode information.
 `b64 [-e|-d] <text>`
 
 where
+
   `-e`: encode to base64 (default is decode)
+
   `-d`: decode from base64`
 
 Example
+
 `b64 -e this is a test` -> outputs `dGhpcyBpcyBhIHRlc3Q=`
+
 `b64 dGhpcyBpcyBhIHRlc3Q=` -> outputs `this is a test`
 
 # Download
