@@ -20,7 +20,7 @@ Example
 
 # Download
 
-Compiled downloads are not available.
+Downloads are available as [Github Releases](https://github.com/btigi/b64/releases/latest)
 
 # Compiling
 
